@@ -31,8 +31,8 @@ This is my final project for the sixth week of the mobile development internship
 
 1. Clone the repository
 2. Navigate to the project folder
-3. Install dependencies by running `flutter pub get`
-4. Open VS Code or Android Studio, connect your phone or start an emulator, and press the green Run button.
+3. Install dependencies
+4. Open Android Studio, connect your phone or start an emulator, and press the green Run button.
 
 ## Author
 
